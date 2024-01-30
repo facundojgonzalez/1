@@ -74,3 +74,8 @@ Crear SQL y modificar base de datos:
 ## Crear superusuario
 
 - `python manage.py createsuperuser`
+
+
+edretr
+
+deddddd
